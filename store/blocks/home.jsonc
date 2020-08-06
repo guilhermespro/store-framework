@@ -41,12 +41,13 @@
     "blockClass": "metal"
     }
   },
-
-  "flex-layout.col":{
-    "children": [
-      "image#electronics",
-      "image#major-appliance"
-    ]
+  "flex-layout.row":{
+    "flex-layout.col":{
+      "children": [
+        "image#electronics",
+        "image#major-appliance"
+      ]
+    }
   },
   
   "image#electronics": {
