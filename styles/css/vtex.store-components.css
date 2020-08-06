@@ -19,6 +19,13 @@
     background-color: white;
     border: transparent;
 }
+
+.infoCardContainer{
+    max-width: 120px;
+    margin: 0 auto;
+    padding: 0;
+}
+
 .infoCardContainer--vintage {
     background-color: #edcfd1;
 }
@@ -28,10 +35,7 @@
 }
 
 
-.infoCardContainer{
-    max-width: 120px;
-    margin: 0 auto 0;
-}
+
 
 
 .infoCardContainer--metal {
