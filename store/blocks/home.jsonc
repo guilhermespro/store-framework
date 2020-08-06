@@ -43,12 +43,18 @@
   },
   "flex-layout.row": {
     "children": [
-      "flex-layout.col#image#electronics",
-      "flex-layout.col#image#major-appliance"
-    ]
+      "flex-layout.col"
+    ],
+    "flex-layout-col": {
+      "children": [
+        "image#electronics",
+        "image#major-appliance"
+  
+      ]
+    }
   },
 
-
+  
 
   "image#electronics": {
     "props": {
