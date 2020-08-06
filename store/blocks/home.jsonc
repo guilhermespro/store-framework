@@ -42,9 +42,7 @@
     }
   },
   "flex-layout.row": {
-    "children": [
-      "flex-layout.col"
-    ],
+
     "flex-layout-col": {
       "children": [
         "image#electronics",
