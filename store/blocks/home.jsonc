@@ -3,7 +3,8 @@
     "blocks": [
       "rich-text",
       "info-card#button-right",
-      "info-card#button-left"
+      "info-card#button-left",
+      "flex-layout.row"
     ]
   },
   "rich-text": {
@@ -41,7 +42,12 @@
     "blockClass": "metal"
     }
   },
+
   "flex-layout.row": {
+    "children": [
+      "flex-layout.col"
+    ]
+  },
 
     "flex-layout-col": {
       "children": [
@@ -49,8 +55,8 @@
         "image#major-appliance"
   
       ]
-    }
-  },
+    },
+
 
   
 
