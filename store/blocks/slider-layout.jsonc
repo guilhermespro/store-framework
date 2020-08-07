@@ -3,44 +3,44 @@
     "props": {
       "autoplay": {
         "timeout": 7,
-        "stopOnHover": true,
-        "height": "650"
+        "stopOnHover": true
       }
     }
   },
   
   "imagebrand#1": {
     "props": {
-      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square1.png",
+      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square1.png"
     }
   },
   
   "imagebrand#2": {
     "props": {
-      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square2.png",
+      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square2.png"
     },
 
   "imagebrand#3": {
     "props": {
-      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square3.png",
+      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square3.png"
     }
   },
 
   "imagebrand#4": {
     "props": {
-      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square4.png",
+      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square4.png"
     }
   },
 
   "imagebrand#5": {
     "props": {
-      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square5.png",
+      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square5.png"
     }
   },
 
   "imagebrand#6": {
     "props": {
-      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square6.png",
+      "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square6.png"
+
     }
   }
 
