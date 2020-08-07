@@ -4,7 +4,8 @@
         "itemsPerPage": {
             "desktop": 1,
             "tablet": 1,
-            "phone": 1
+            "phone": 1,
+            "height": 650
         },
       "autoplay": {
         "timeout": 7000,
