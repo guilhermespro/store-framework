@@ -1,5 +1,5 @@
 {"slider-layout#home": {
-    "child": ["imagebrand#1", "imagebrand#2","imagebrand#3", "imagebrand#4", "imagebrand#5", "imagebrand#6"],
+   
     "props": {
         "itemsPerPage": {
             "desktop": 1,
@@ -11,12 +11,15 @@
         "timeout": 7000,
         "stopOnHover": true
       },
-      "height": 650,
       "infinite": true,
       "showNavigationArrows": "desktopOnly",
       "blockClass": "carousel"      
   
     },
+
+    "children": ["imagebrand#1", "imagebrand#2","imagebrand#3", "imagebrand#4", "imagebrand#5", "imagebrand#6"]
+
+  },
   
   "imagebrand#1": {
     "props": {
@@ -54,6 +57,5 @@
     }
   }
 
-}
 }
 }
