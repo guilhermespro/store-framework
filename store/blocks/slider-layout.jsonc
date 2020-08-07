@@ -7,9 +7,7 @@
       "stopOnHover": true
     }
   }
-
-
-    
+ 
 
   },
   
@@ -22,6 +20,7 @@
   "imagebrand#2": {
     "props": {
       "src": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square2.png"
+      }
     },
 
   "imagebrand#3": {
@@ -50,4 +49,4 @@
   }
 
 }
-}
+
