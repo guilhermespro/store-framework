@@ -30,6 +30,7 @@
     "children": [
       "product-name",
       "product-price",
+      "product-identifier.product",
       "flex-layout.row#qty-sku",
       "buy-button"
     ]
