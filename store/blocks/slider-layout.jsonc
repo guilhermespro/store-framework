@@ -1,11 +1,23 @@
 {"slider-layout#home": {
-    "children": ["imagebrand#1", "imagebrand#2","imagebrand#3", "imagebrand#4", "imagebrand#5", "imagebrand#6"],
+
     "props": {
+        "itemsPerPage": {
+            "desktop": 1,
+            "tablet": 1,
+            "phone": 1
+        },
       "autoplay": {
-        "timeout": 7,
+        "timeout": 7000,
         "stopOnHover": true
-      }
-    }
+      },
+
+      "infinite": true,
+      "showNavigationArrows": "desktopOnly",
+      "blockClass": "carousel",
+    
+
+      "children": ["imagebrand#1", "imagebrand#2","imagebrand#3", "imagebrand#4", "imagebrand#5", "imagebrand#6"]
+  
   },
   
   "imagebrand#1": {
@@ -44,5 +56,6 @@
     }
   }
 
+}
 }
 }
