@@ -69,9 +69,9 @@
 
   "sku-selector": {
     "props": {
-      "initialSelection": "empty",
+      "initialSelection": "image",
       "showValueForVariation": true,
-      "showVariationsErrorMessage": "image"
+      "showVariationsErrorMessage": "none"
     }
   }
 }
