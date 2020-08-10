@@ -1,0 +1,23 @@
+{
+    "store.custom#landing": { 
+      "blocks": [
+        "image#landingbanner", 
+        "search-result-layout.customQuery"
+      ]
+    },
+    "image#landingbanner": {
+        "props": {
+            "minWidth":  100,
+            "src": "https://image.shutterstock.com/image-photo/beautiful-natural-scenery-river-southeast-260nw-1008530026.jpg"
+        }
+    },
+    "search-result-layout.customQuery": {
+        "props": {
+            "orderByField": "OrderByReleaseDateDESC",
+            "hideUnavailableItems": true,
+            "maxItemsPerPage": 8,
+            "name": "Blue Top Retro Camera"
+
+        }
+    }
+  }
