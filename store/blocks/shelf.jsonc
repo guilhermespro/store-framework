@@ -1,5 +1,8 @@
-{"shelf": {
-    "blocks": ["product-summary.shelf"],
+{
+  "shelf": {
+    "blocks": [
+      "product-summary.shelf"
+    ],
     "props": {
       "category": 1,
       "orderBy": "OrderByTopSaleDESC",
@@ -14,5 +17,4 @@
       }
     }
   }
-
 }
