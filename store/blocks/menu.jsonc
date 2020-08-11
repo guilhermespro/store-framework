@@ -34,7 +34,7 @@
         "children": [
             "menu-item#mixers",
             "menu-item#toasters",
-            "menu-item#coffee "
+            "menu-item#coffee"
           ],
         "props": {
             "orientation": "vertical"
