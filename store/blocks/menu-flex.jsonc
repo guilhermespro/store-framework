@@ -1,6 +1,11 @@
 {
     "vtex.menu@2.x:submenu#major": {
-        "children": ["vtex.menu@2.x:menu#major","flex-layout.row#major"]
+        "children": ["vtex.menu@2.x:menu#major"]
+    },
+    "vtex.menu@2.x:menu#major": {
+        "children": [
+            "flex-layout.row#major"
+        ]
     },
     "flex-layout.row#major": {
         "children": [
@@ -33,9 +38,4 @@
             "maxWidth": "200px"
         }
     },
-    "vtex.menu@2.x:menu#major": {
-        "children": [
-            "flex-layout.row"
-        ]
-    }
 }
