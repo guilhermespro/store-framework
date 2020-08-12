@@ -22,8 +22,7 @@
     },
     "flex-layout.col#footer-left-desktop": {
         "children": [
-            "accepted-payment-methods",
-            "social-networks"
+            "accepted-payment-methods"
         ]
     },
     "accepted-payment-methods": {
@@ -35,6 +34,11 @@
             ],
             "showInColor": true
         }
+    },
+    "flex-layout.col#footer-right-desktop": {
+        "children": [
+            "social-networks"
+        ]
     },
     "social-networks": {
         "props": {
